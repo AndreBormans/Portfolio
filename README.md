@@ -1,2 +1,3 @@
-# Portfolio
-This is a portfolio I made for a client.
+# MY Own Portfolio
+This is my own portfolio.
+Written in HTML5 and CSS
